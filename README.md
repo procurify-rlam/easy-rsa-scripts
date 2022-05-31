@@ -1,5 +1,10 @@
 # easy-rsa-scripts
 
-## See scripts for info regarding the scripts.
+For use with easyrsa:
+https://github.com/OpenVPN/easy-rsa
 
-## PDF provides instructions for AWS / Google Workspace SAML/SSO authentication
+See scripts for info regarding the scripts.
+
+PDF provides instructions for AWS / Google Workspace SAML/SSO authentication
+
+

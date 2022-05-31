@@ -1,5 +1,5 @@
 #!/bin/bash
-# place this file where the easyrsa script is located.
+# deploy this file where the easyrsa script is located.
 # eg: easy-rsa/easyrsa3/clean_up.sh
 
 echo "Removing all previously created Certificate Authorities and Cerfiticates"

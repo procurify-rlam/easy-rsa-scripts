@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# deploy this file to the directory where the easyrsa script is located.
+# deploy this file where the easyrsa script is located.
 # eg: easy-rsa/easyrsa3/make_certs.sh
 #
 # This is a quick dirty method to generate a server certificate for AWS ACM.
